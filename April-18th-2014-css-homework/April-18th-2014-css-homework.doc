@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Assignment 1</title>
+		<link href="stylesheet.css" rel="stylesheet" type="text/css">
+		<link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
+		<meta charset="UTF-8">
+		<meta name="author" content="Jenna Krinsley">
+	</head>
+	<header>
+		<nav>
+			<h1 id="name"><b>Jenna Krinsley</b></h1>
+			<button id="hire">Hire Me</button>
+			<ul>
+				<li><a href="projects.html">Projects</a></li> 
+				
+				<li><a href="about.html">About</a></li>
+				
+				<li><a href="contact.html">Contact</a></li>
+			</ul>
+		</nav>
+	</header>
+	<body>
+		<!--<img src="background.jpg"/>-->
+	</body>
+</html>
