@@ -1,0 +1,77 @@
+body  {
+	background-image: url(background.jpg);
+	background-position: fixed;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	z-index:-1;
+	font-family: 'Quicksand', sans-serif;
+	clear: top;
+}
+img {
+	/*height: 100%;
+	width: ;*/
+}
+nav {
+	border-color: white;
+	border-width: 5px;
+	border-style: solid;
+	background-color: white;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	color: #ffffff;
+	height: 35px;
+	text-align: center;
+	padding-top: 15px;
+	z-index: 0;
+	margin: -10px;
+}
+nav ul {
+	margin: 12px 450px;
+}
+	
+nav ul li {
+	
+	padding: 0 0 5px 2px;
+	list-style: none;
+	float: left;
+	text-align: center;
+	text-transform: uppercase;
+	}
+nav ul li a {
+	color: grey;
+	margin: 10px;
+	padding: 0;
+	text-decoration: none;
+	text-align: center;
+	
+}
+nav ul li a:hover {
+	color: darkgrey;
+}
+#name {
+	float: left;
+	font-style: bold;
+	position: fixed;
+	text-align: left;
+	opacity: 1;
+	margin: auto;
+	color: black;
+	font-size: 15px;
+	padding: 12px;
+	clear: left;
+	text-transform; uppercase;
+	
+}
+#hire {
+	float: right;
+	color: white;
+	background-color: red;
+	z-index: 1;
+	margin-right: 30px;
+	position: relative;
+	padding: 5px;
+	text-transform: uppercase;
+	text-decoration: none;
+	border: none;
+}
